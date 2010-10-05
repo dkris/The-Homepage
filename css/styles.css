@@ -1,0 +1,40 @@
+/*#canvas {
+ position: absolute;
+ top: 0px;
+ }*/
+#output {
+    font-family: Verdana;
+    font-size: 0.6em;
+    margin-top: 2px;
+}
+
+#outer {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 1px;
+    height: 1px;
+    overflow: visible;
+}
+
+#canvasContainer {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: -280px;
+    left: -500px;
+}
+
+#explain {
+    width: 150px;
+    left: 0px;
+    top: 0px;
+    position: absolute;
+    font-family: arial, sans-serif;
+    font-size: 11px;
+    color: white;
+}
+
+/*canvas {
+    border: 1px solid #474747;
+}*/
